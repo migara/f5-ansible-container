@@ -2,7 +2,7 @@
 
 ## Overview
 
-Docker image built on top of alpine
+A lightweight (37MB) Docker image built on top of alpine
 
 Includes: bigsuds, f5-sdk and netaddr
 
